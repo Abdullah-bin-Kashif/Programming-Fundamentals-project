@@ -8,7 +8,6 @@ Programming Fundamentals, Section B
 
 Group members:
 - 26K-0562 Abdullah bin Kashif
-- 26K-0555 Farhan Ali Soomro
 - 26K-0578 Rayan Khan
 
 ## What you need
